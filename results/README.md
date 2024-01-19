@@ -1,0 +1,1 @@
+The **results** folder contains all the results (tables, figures, numbers) derived by the code in this repository. It is not in version control: the code and raw data contain the necessary ingredients to regenerate all the results.

@@ -1,0 +1,5 @@
+outs:
+- md5: e34fc95b2eb7ad2defbc5b49c4279b60
+  size: 151541
+  hash: md5
+  path: Lung_Cancer.csv

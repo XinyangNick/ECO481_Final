@@ -1,0 +1,26 @@
+Lung_Cancer.csv.dvc:
+  description: Number and rates of new cases of primary cancer, by cancer type, age
+    group and sex
+  obtained: '2023-11-17'
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310011101&pickMembers%5B0%5D=2.1&pickMembers%5B1%5D=3.1&pickMembers%5B2%5D=4.22&cubeTimeFrame.startYear=2016&cubeTimeFrame.endYear=2020&referencePeriods=20160101%2C20200101
+Production_Category.csv.dvc:
+  description: Archived - Employment by industry, annual, provinces and economic regions,
+    inactive (x 1,000)
+  obtained: '2023-11-17'
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410009201#archived
+Smoke_Average.xlsx.dvc:
+  description: TOBACCO USE IN CANADA
+  obtained: '2023-11-16'
+  source: https://uwaterloo.ca/tobacco-use-canada/adult-tobacco-use/smoking-provinces
+health_ineq_online_table_1.csv.dvc:
+  description: Chetty et al (JAMA 2016) Online Data Tables
+  obtained: '2023-10-13'
+  source: https://healthinequality.org/data/
+health_ineq_online_table_2.csv.dvc:
+  description: Chetty et al (JAMA 2016) Online Data Tables
+  obtained: '2023-10-13'
+  source: https://healthinequality.org/data/
+population.csv.dvc:
+  description: Population estimates, quarterly
+  obtained: '2023-11-17'
+  source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1999&cubeTimeFrame.endMonth=10&cubeTimeFrame.endYear=2022&referencePeriods=19990101%2C20221001

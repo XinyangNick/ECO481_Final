@@ -1,0 +1,5 @@
+outs:
+- md5: 80ff9e41766bcd44df59816f8fd31459
+  size: 14911
+  hash: md5
+  path: health_ineq_online_table_1.csv

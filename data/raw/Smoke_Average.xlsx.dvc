@@ -1,0 +1,5 @@
+outs:
+- md5: 6e12c0ec8d8f3f24038a473405e1f90c
+  size: 13407
+  hash: md5
+  path: Smoke_Average.xlsx
